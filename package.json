@@ -1,0 +1,22 @@
+{
+  "name": "cypress_js_learning_brezen2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tredgate/cypress_js_learning_brezen2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tredgate/cypress_js_learning_brezen2025/issues"
+  },
+  "homepage": "https://github.com/tredgate/cypress_js_learning_brezen2025#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
+  }
+}
